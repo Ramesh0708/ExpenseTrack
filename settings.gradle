@@ -1,0 +1,4 @@
+rootProject.name='ExpenseTrack'
+include ':app'
+include ':MPChartLib'
+

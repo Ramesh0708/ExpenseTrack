@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030802877598",
+    "firebase_url": "https://expensetrack-888dc.firebaseio.com",
+    "project_id": "expensetrack-888dc",
+    "storage_bucket": "expensetrack-888dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030802877598:android:973a50858ba77873c99f8f",
+        "android_client_info": {
+          "package_name": "com.example.expensetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030802877598-2dik63rt7b9nkhif2ulcdknip1dcnfdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmu2gnZULwJoSBW3s1VeJlkblz2NmeLAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030802877598-2dik63rt7b9nkhif2ulcdknip1dcnfdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
