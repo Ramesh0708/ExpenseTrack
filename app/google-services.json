@@ -1,7 +1,7 @@
 {
   "project_info": {
     "project_number": "1030802877598",
-    "firebase_url": "https://expensetrack-888dc.firebaseio.com",
+    "firebase_url": "",
     "project_id": "expensetrack-888dc",
     "storage_bucket": "expensetrack-888dc.appspot.com"
   },
@@ -15,20 +15,20 @@
       },
       "oauth_client": [
         {
-          "client_id": "1030802877598-2dik63rt7b9nkhif2ulcdknip1dcnfdq.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBmu2gnZULwJoSBW3s1VeJlkblz2NmeLAc"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1030802877598-2dik63rt7b9nkhif2ulcdknip1dcnfdq.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
